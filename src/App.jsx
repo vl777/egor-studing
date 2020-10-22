@@ -3,7 +3,7 @@ import React from "react";
 const App = () => {
   const onClick = () => {
     alert("egor учись");
-    confirm(" Я учусь"
+    confirm(" Я учусь");
   };
 
 
